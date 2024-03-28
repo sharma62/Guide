@@ -19,3 +19,22 @@ Both the Analyst and Senior Analyst roles are open to recent engineering graduat
 ## Capgemini Analyst Latest Exam Pattern 
 Analyst Eligibility Criteria
 Eligibility criteria varies across colleges and regions, but majorly candidates who fulfil the following criteria are eligible for Analyst hiring:
+
+|       | Requirements |
+| ----------- | ----------- |
+| Eligible Stream      | BE/ B.tech/ MCA / M.tech     |
+| Percentage Criteria   | 60% or greater in X, XII, and UG (all subjects will be taken into consideration) |
+|Backlog Criteria|No active backlog|
+|Gap Criteria| Maximum of 1 year between 12th and graduation first year.|
+|Eligible Branches| CS, IT and Circuital Branches|
+
+## The Capgemini drive for Analyst role is divided into 2 section
+* Round 1 (Written Test)
+* Round 2 (Technical + HR Interviews)
+* Round 1 (Written Test)
+## Written Test is further divided into five sections:
+* Technical Assessment
+* English Communication Test
+* Game based Aptitude
+* Behavioral Competency
+* Spoken English
