@@ -38,3 +38,49 @@ Eligibility criteria varies across colleges and regions, but majorly candidates 
 * Game based Aptitude
 * Behavioral Competency
 * Spoken English
+
+
+
+|Sections|	No. of Questionsz	|Duration (in minutes)|
+| ----------- | ----------- | ----------- |
+|Technical Assessment|25|25|
+|English Communication Test|30|30|
+|Game-Based Aptitude|4|30|
+|Behavioural Competency|100|No Time Limit|
+
+Please note that all of the sections here(except Behavioural Competency) will lead to elimination if not performed well.
+## Section 1: Technical Assessment
+The Technical Assessment section of Capgemini is a multiple-choice questions based round. It evaluates students' proficiency in various areas including:
+* Demonstrating programming logic comprehension through Pseudocode Questions.
+* Assessing knowledge of C, C++, and Java programming languages.
+* Evaluating understanding of Data Structures and Algorithms and Object-Oriented Programming (OOPS) concepts.
+* Assessing knowledge of Databases and Networking.
+* Testing fundamental knowledge of Cloud Computing.
+## Section 2: English Communication Test
+Capgemini now conducts this round instead of Essay Writing round. This round will assess students' English communication skills through multiple-choice questions. To prepare for the English Communication test, focus on the following areas:
+* Reading Comprehension
+* Grammar: Direct & Indirect Speech, Active & Passive Voice, etc.
+* Sentence Correction & Completion
+* Vocabulary
+## Section 3: Game-Based Aptitude
+This section is a gamified test round. It consists of a sequence of 4 games that participants have to solve. Below are the game types given to candidates in the test:
+* Grid Challenge
+* Motion Challenge
+* Inductive Logical Thinking
+* Deductive Logical Thinking
+## Section 4: Behavioural Competency
+* This section serves as a personality psychometric. It evaluates candidate’s work-related behaviour. This is not an elimination round.
+* The assessment consists of statement pairs.
+* Select the statement you agree with more.
+* Each screen displays 5 pairs of statements.
+* It is not possible to skip any item to proceed to the next page.
+## Section 5: Spoken English
+This section tests candidate’s ability to speak English. Please note that since Capgemini has global clients, the test may contain English statements in foreign accents.
+## Round 2 (Technical + HR Interviews)
+Interview can be of two types depending upon the role you are applying for:
+## Technical Interview
+HR Interview
+1. Technical Interview
+During this round, the interviewer evaluates a candidate's technical skills. The candidate is expected to have a thorough understanding of the topics they have included in their resume. The interview preparations dashboard provides model questions and answers for the technical interview that can be reviewed.
+
+
