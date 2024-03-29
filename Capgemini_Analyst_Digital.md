@@ -83,4 +83,15 @@ HR Interview
 1. Technical Interview
 During this round, the interviewer evaluates a candidate's technical skills. The candidate is expected to have a thorough understanding of the topics they have included in their resume. The interview preparations dashboard provides model questions and answers for the technical interview that can be reviewed.
 
+<details open>
+<summary>Tell me about your self ?</summary>
+<br>
+[Sample Answer]
+  
+Hello, my name is Sumit and I recently graduated with a Bachelor of Technology degree in Computer Science. I am excited to be here today to interview for this opportunity and to tell you a little bit about myself.
+During my time as a B.Tech student, I gained hands-on experience in various programming languages such as Java, Python, and C++. I have also completed projects related to web development, data science, and machine learning, which have given me practical experience in designing and developing software applications.
+Apart from my technical skills, I have also developed strong communication and interpersonal skills through group projects and extracurricular activities. As a team player, I believe in effective collaboration and communication to achieve the best outcomes.
+In my free time, I enjoy reading tech blogs and experimenting with new programming languages and tools. I believe in keeping up with the latest trends and technologies in the field, and I am always eager to learn and improve my skills.
+Thank you for considering my application. I am excited about the opportunity to contribute my skills and knowledge to this team.
+</details>
 
