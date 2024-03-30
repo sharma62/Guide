@@ -83,10 +83,9 @@ HR Interview
 1. Technical Interview
 During this round, the interviewer evaluates a candidate's technical skills. The candidate is expected to have a thorough understanding of the topics they have included in their resume. The interview preparations dashboard provides model questions and answers for the technical interview that can be reviewed.
 
-<details open>
-<summary>Tell me about your self ?</summary>
+<details >
+<summary>Introduce your self ?</summary>
 <br>
-[Sample Answer]
   
 Hello, my name is Sumit and I recently graduated with a Bachelor of Technology degree in Computer Science. I am excited to be here today to interview for this opportunity and to tell you a little bit about myself.
 During my time as a B.Tech student, I gained hands-on experience in various programming languages such as Java, Python, and C++. I have also completed projects related to web development, data science, and machine learning, which have given me practical experience in designing and developing software applications.
@@ -95,5 +94,45 @@ In my free time, I enjoy reading tech blogs and experimenting with new programmi
 Thank you for considering my application. I am excited about the opportunity to contribute my skills and knowledge to this team.
 </details>
 
-## 
+
+<details close>
+<summary> Tell me about your self ?</summary>
+<br>
+Absolutely, thank you for the opportunity. My name is John, and I recently graduated with a degree in Computer Science from XYZ University. I am thrilled about the prospect of joining Capgemini as a software developer.
+During my academic journey, I developed a solid foundation in programming languages such as Java, Python, and JavaScript. My coursework included practical projects where I applied these skills to solve real-world problems. Additionally, I completed internships where I gained hands-on experience in software development practices and contributed to team projects.
+While I may be a fresher, I am eager to bring my knowledge and enthusiasm to Capgemini. I am particularly attracted to the innovative projects and collaborative work environment that Capgemini is known for. I am confident that my academic background, coupled with my passion for learning and staying abreast of industry trends, will make me a valuable asset to your team.
+I am excited about the opportunity to grow and develop my skills further within the dynamic and challenging environment that Capgemini provides. Thank you for considering my application, and I look forward to the possibility of contributing to the success of Capgemini as a software developer.
+
+</details>
+
+<details close>
+<summary> Do you have any issues with relocation ?</summary>
+<br>
+Thank you for asking. I don't have any issues with relocation. In fact, I see it as an exciting opportunity to immerse myself in a new environment and fully commit to the role at Capgemini. I am ready and willing to relocate as needed to contribute effectively to the team and embrace the professional growth that comes with new experiences.
+
+</details>
+
+<details close>
+<summary> Why this company ?</summary>
+<br>
+I am particularly drawn to Capgemini for several reasons. Firstly, Capgemini has a stellar reputation for fostering innovation and embracing cutting-edge technologies. I am eager to be a part of a company that values staying at the forefront of the industry.
+Secondly, the collaborative and diverse work culture at Capgemini aligns with my belief in the power of teamwork and collective problem-solving. I appreciate how the company encourages employees to share ideas and contribute to a dynamic and inclusive environment.
+Moreover, Capgemini's commitment to professional development and continuous learning is impressive. As a recent graduate, I am excited about the prospect of furthering my skills and knowledge through the training and growth opportunities that Capgemini provides.
+Lastly, I am inspired by Capgemini's dedication to corporate social responsibility and sustainability. Being part of a company that values making a positive impact on both the industry and society aligns with my personal values.
+In summary, I believe that Capgemini's commitment to innovation, collaborative culture, focus on professional development, and dedication to social responsibility make it an ideal fit for me to kickstart my career in software development.
+
+</details>
+
+<details close>
+<summary>What are your Feature Goals ?</summary>
+<br>
+In the long term, I envision myself growing into a seasoned software developer with a focus on becoming an expert in specific technologies or domains. I am enthusiastic about staying abreast of emerging trends and advancements within the tech industry to continuously enhance my skill set.
+In the mid-term, I aspire to take on more challenging & leadership roles where I can contribute to the strategic direction of projects and mentor junior team members. I believe that contributing to the success of the team and the company as a whole will be a key part of my professional journey.
+Moreover, I am open to exploring opportunities for further education and certifications that align with my career path, ensuring that I remain at the forefront of technological advancements.
+Overall, my goal is to make meaningful contributions to the field of software development while embracing opportunities for growth, learning, and leadership within a dynamic and innovative work
+
+</details>
+
+
+
 
